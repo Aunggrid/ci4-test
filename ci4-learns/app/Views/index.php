@@ -4,18 +4,14 @@
     
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    
-    
     <link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/css/boostrap/css/bootstrap.min.css'); ?>">
     <link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/css/style.css'); ?>">
     <link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/css/fontsawesome/css/all.min.css'); ?>">
-    
-    
     <title>Lifelong education cmu</title>
   </head>
-  <body>
-    
-        <nav class="navbar nav-fill navbar-expand-lg navbar-light bg-light ">
+  
+          <div class="logotop">
+        <nav class="navbar nav-fill navbar-expand-lg navbar-light " >
             <div class="container">
                 <nav class="navbar nav-fill ">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
@@ -27,7 +23,8 @@
                     </ul>
 
 
-                </nav>
+                </nav></div>
+                <div class="toprightmenu">
               <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                     <form class="d-flex">
@@ -56,20 +53,20 @@
                     </ul>
                   </li>
                   
-                  </ul></div></div></nav>
+                  </ul></div></div></nav></div>
         
-       
+    <div class="ppimg">  
     <div class="row align-items-center">
     <div class="container-sm" style="background-color:rgba(177, 56, 224, 0.664);height: 340px;">
         <br><br><div class="Proftext">
-       <center> <h1 class="display-6"><p><b>Professional Skill 
-                               <br>Development</b></p></h1> </center>
+       <center> <h1 class="display-6"><p><b>SPACE FOR
+                               <br>VIDEO</b></p></h1> </center>
                             </div>  <br><br>
                                </div>
-    </div>
+    </div></div>  
     
-    <nav class="navbar nav-fill navbar-expand-lg navbar-light  ">
-      <div class="navheadcontroll"><div class="container-fluid">  
+    <div class="navbar nav-fill navbar-expand-lg navbar-light  ">
+      <div class="navheadcontroll"><div class="container">  
         <div class="row align-items-center">
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mx-auto">
@@ -109,194 +106,169 @@
               
             </ul>
         </div>
-      </div></div></div>
-        
-      </nav>
-      <div class="navboxcontrol">
-      <nav class="navbar navbar-expand-lg navbar-light " style="background-color: rgba(138, 132, 132, 0.247);">
-        <div class="container-fluid">
-          <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav me-auto gx-5 mb-lg-0">
-              <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#"><b>หน้าหลัก</b></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#"><b>/ทักษะอาชีพ</b></a>
-              </li>
-            </ul>
-          </div></div></nav></div>
-      
-     <div class="box-gray">   
-    <div class="container-md overflow-hidden">
-        <div class="row align-items-center gx-5">
-          <div class="col">
-           <div class="p-1 "><img src="assets/pic/ob blue.jpg"></div>
-          </div>
-          <div class="col">
-            <div class="p-3 "><img src="assets/pic/orshort.jpg"></div>
-          </div>
+      </div></div></div></div></nav>
+      <div class="wordbelowmenu">
+        <div class="container">
+          <div class="greylettersmal">
+          <h4><b>สร้างรูปเเบบการเรียนรู้ที่ไม่จำกัดเพียงการเป็น"นักศึกษา"</b></h4>
+        </div>
+        <div class="greybig">
+          <h3><b>เพราะเราทุกคนคือ</b></h3>
+        </div>
+       <div class="bigblackletter">
+        <h3><b>"ผู้เรียนรู้ตลอดชีวิต"</b></h3>
+       </div>
+
+
+
+
         </div>
       </div>
-</div>
-
-<div class="col" >
-    <div class="row align-items-start"   >
-<p class="display-55">หลักสูตรทักษะอาชีพ</p>
-
-<p class="display-552">จัดทำโดย วิทยาลัยศึกษาตลอดชีวิต มช.</p>
-</div></div>
-
-  <div class="row justify-content-start">
-<nav class="navbar nav-fill navbar-expand-lg navbar-light bg-light ">
-  <div class="container-fluid">
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#"><b>ทั้งหมด</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-        </li>
-      <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#"><b>กลุ่มวิยาศาสตร์สุขภาพ</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#"><b>กลุ่มวิยาศาสตร์เเละเทคโนโลยี</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#"><b>กลุ่มมนุษย์ศาสตร์เเละสังคมศาสตร์</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-        </li>
+         
+    <div class="allignpage">
       
-      </div></div></nav>
+      <div class="courseregcommand">
+      <h3><b>คอร์สเเนะนำสำหรับคุณ</b></h3>
+      <p style="color: gray;">เเนะนำคอร์สที่น่าสนใจสำหรับคุณด้วยความรักเเละห่วงใย</p>
 
-  <div class="container">
+
+
+
+      </div>
+     
+    <div class="colascontrol">
+    <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel"  >
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <div class="regcourse">
+            <div class="row ">
     
-    <div class="row">
-      <div class="col-sm-3">
-        
-        <a href="#"><div class="card">
-          <img src="assets/pic/course/robotprbut.jpg"width="100%"height="50%"></a>
-          <div class="cardbody">
-            <h5>cardtitle</h5>
-            <p>cardtext</p>
+          <div class="col-md-4">
+            <a href="#"> <div class="card">
+              <img src="assets/pic/course/robotprbut.jpg"width="100%"height="50%"></a>
+              <div class="cardbody">
+                <h5>cardtitle</h5>
+                <p>cardtext</p>
+              </div>
+              <div class="cardbottom">
+                <a href="#"><button  type="button" class="btn btn-outline-secondary">Learn more</button></a>
+                </div>
+              
+              
+              
+              
+              </div> </div>
+              
+          
+          <div class="col-md-4">
+            <a href="#"> <div class="card">
+              <img src="assets/pic/course/swarncourse.png"width="100%"height="50%"></a>
+              <div class="cardbody">
+                <h5>cardtitle</h5>
+                <p>cardtext</p>
+              </div>
+              <div class="cardbottom">
+                <a href="#"><button  type="button" class="btn btn-outline-secondary">Learn more</button></a>
+                </div>
+              
+              
+              
+              
+              </div> </div>
+    
+              <div class="col-md-4">
+                <a href="#"> <div class="card">
+                  <img src="assets/pic/course/robotorange.png"width="100%"height="50%"></a>
+                  <div class="cardbody">
+                    <h5>cardtitle</h5>
+                    <p>cardtext</p>
+                  </div>
+                  <div class="cardbottom">
+                    <a href="#"><button  type="button" class="btn btn-outline-secondary">Learn more</button></a>
+                    </div>
+                  
+                  
+                  
+                  
+                  </div> </div>
+              
           </div>
-          <div class="cardbottom">
-            <p class="heartcontrol" style="color: rgb(233, 76, 207);"><i class="fas fa-heart"></i><i class="fas fa-heart"></i><i class="fas fa-heart"></i><i class="fas fa-heart"></i><i class="fas fa-heart"></i><div class="justify-content-end"><a href="#"><button class="cardbtn" style="float: right;">➔</button></a></p>
-            </div>
+        </div>
+        </div>
+        <div class="carousel-item">
+          <div class="regcourse">
+            <div class="row ">
+    
+          <div class="col-md-4">
+            <a href="#"> <div class="card">
+              <img src="assets/pic/course/robotorange.png"width="100%"height="50%"></a>
+              <div class="cardbody">
+                <h5>cardtitle</h5>
+                <p>cardtext</p>
+              </div>
+              <div class="cardbottom">
+                <a href="#"><button  type="button" class="btn btn-outline-secondary">Learn more</button></a>
+                </div>
+              
+              
+              
+              
+              </div> </div>
+              
+          
+          <div class="col-md-4">
+            <a href="#"> <div class="card">
+              <img src="assets/pic/course/swarncourse.png"width="100%"height="50%"></a>
+              <div class="cardbody">
+                <h5>cardtitle</h5>
+                <p>cardtext</p>
+              </div>
+              <div class="cardbottom">
+                <a href="#"><button  type="button" class="btn btn-outline-secondary">Learn more</button></a>
+                </div>
+              
+              
+              
+              
+              </div> </div>
+    
+              <div class="col-md-4">
+                <a href="#"> <div class="card">
+                  <img src="assets/pic/course/swarncourse.png"width="100%"height="50%"></a>
+                  <div class="cardbody">
+                    <h5>cardtitle</h5>
+                    <p>cardtext</p>
+                  </div>
+                  <div class="cardbottom">
+                    <a href="#"><button  type="button" class="btn btn-outline-secondary">Learn more</button></a>
+                    </div>
+                  
+                  
+                  
+                  
+                  </div> </div>
+              
           </div>
-        
-    </div>
- 
-</div>
-<div class="col-sm-3">
-       
-  <a href="#"><div class="card">
-    <img src="assets/pic/course/swarncourse.png"width="100%"height="50%"></a>
-    <div class="cardbody">
-      <h5>cardtitle</h5>
-      <p>cardtext</p>
-    </div>
-    <div class="cardbottom">
-      <p style="color: rgb(233, 76, 207);"><i class="fas fa-heart"></i><i class="fas fa-heart"></i><i class="fas fa-heart"></i><i class="fas fa-heart"></i><i class="fas fa-heart"></i><div class="justify-content-end"><a href="#"><button class="cardbtn" style="float: right;">➔</button></a></p>
-      </div>
-    </div>
-  
-</div>
-
-
-</div>
-<div class="col-sm-3">
-        
-  <a href="#"><div class="card">
-    <img src="assets/pic/course/robotorange.png"width="100%"height="50%"></a>
-    <div class="cardbody">
-      <h5>cardtitle</h5>
-      <p>cardtext</p>
-    </div>
-    <div class="cardbottom">
-      <p style="color: rgb(233, 76, 207);"><i class="fas fa-heart"></i><i class="fas fa-heart"></i><i class="fas fa-heart"></i><i class="fas fa-heart"></i><i class="fas fa-heart"></i><div class="justify-content-end"><a href="#"><button class="cardbtn" style="float: right;">➔</button></a></p>
-      </div>
-    </div>
-  
-</div>
-
-
-</div>
-<div class="col-sm-3">
-        
-  <a href="#"><div class="card">
-    <img src="assets/pic/course/swarncourse.png"width="100%"height="50%"></a>
-    <div class="cardbody">
-      <h5>cardtitle</h5>
-      <p>cardtext</p>
-    </div>
-    <div class="cardbottom">
-      <p style="color: rgb(233, 76, 207);"><i class="fas fa-heart"></i><i class="fas fa-heart"></i><i class="fas fa-heart"></i><i class="fas fa-heart"></i><i class="fas fa-heart"></i><div class="justify-content-end"><a href="#"><button class="cardbtn" style="float: right;">➔</button></a></p>
-      </div>
-    </div>
-  
-</div>
-<br><br>
-</div>
-
-<div class="col-sm-3">
-        
-  <a href="#"><div class="card">
-    <img src="assets/pic/course/robotprbut.jpg"width="100%"height="50%"></a>
-    <div class="cardbody">
-      <h5>cardtitle</h5>
-      <p>cardtext</p>
-    </div>
-    <div class="cardbottom">
-      <p style="color: rgb(233, 76, 207);"><i class="fas fa-heart"></i><i class="fas fa-heart"></i><i class="fas fa-heart"></i><i class="fas fa-heart"></i><i class="fas fa-heart"></i><div class="justify-content-end"><a href="#"><button class="cardbtn" style="float: right;">➔</button></a></p>
-      </div>
-    </div>
-  
-</div>
-
-
-
-  </div>
-  <div class="col-sm-3">
-        
-    <a href="#"><div class="card">
-      <img src="assets/pic/course/robotorange.png"width="100%"height="50%"></a>
-      <div class="cardbody">
-        <h5>cardtitle</h5>
-        <p>cardtext</p>
-      </div>
-      <div class="cardbottom">
-        <p style="color: rgb(233, 76, 207);"><i class="fas fa-heart"></i><i class="fas fa-heart"></i><i class="fas fa-heart"></i><p2 style="color: rgb(83, 80, 80);"><i class="fas fa-heart"></i><i class="fas fa-heart"></i></p2><div class="justify-content-end"><a href="index2.html"><button class="cardbtn" style="float: right;">➔</button></a></p>
+        </div>
         </div>
         
       </div>
-      
-</div></div>
-<div class="col-sm-3">
-        
-  <a href="#"><div class="card">
-    <img src="assets/pic/course/swarncourse.png"width="100%"height="50%"></a>
-    <div class="cardbody">
-      <h5>cardtitle</h5>
-      <p>cardtext</p>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
     </div>
-    <div class="cardbottom">
-      <p style="color: rgb(233, 76, 207);"><i class="fas fa-heart"></i><i class="fas fa-heart"></i><i class="fas fa-heart"></i><i class="fas fa-heart"></i><i class="fas fa-heart"></i><div class="justify-content-end"><a href="#"><button class="cardbtn" style="float: right;">➔</button></a></p>
-      </div>
-    </div>
-  
-</div></div>
-<div class="col-sm-3">
-        
-  <a href="#"><div class="card">
-    <img src="assets/pic/course/swarncourse.png"width="100%"height="50%"></a>
-    <div class="cardbody">
-      <h5>cardtitle</h5>
-      <p>cardtext</p>
-    </div>
-    <div class="cardbottom">
-      <p style="color: rgb(233, 76, 207);"><i class="fas fa-heart"></i><i class="fas fa-heart"></i><i class="fas fa-heart"></i><i class="fas fa-heart"></i><i class="fas fa-heart"></i><div class="justify-content-end"><a href="#"><button class="cardbtn" style="float: right;">➔</button></a></p>
-      </div>
-    </div>
-  
-</div></div>
+  </div>
+
+
+
+
+
+
 <div class="textleftagegap">
   <h6 style="color: rgb(236, 81, 81);"><b>กลุ่มช่วงวัย Lifelong</b></h6>
   <h2><b>กลุ่มผู้เรียนที่ตอบโจทย์</h2>
@@ -308,13 +280,13 @@
 
 <div class="vdoUndertextagegap">
 
-  <a href="# "><img src="assets/pic/ob blue.jpg"width="100%"height="100%"></a>
+  <a href="# "><img src="assets/pic/VDO.jpg"width="90%"height="100%" ></a>
    
   </div>
 
 </div>
 
-</div>
+
 <div class="agegapcard">
 <div class="container">
     
@@ -378,7 +350,7 @@
 <br><br><br><br><br><br>
 <div class="container">
   <div class="col align-self-start">
-<div class="imggbtn"><img src="assets/pic/bigpicsamark.png"style="width: 100%;height:100%;"></div></div>
+<div class="imggbtn"><img src="assets/pic/nonstopskill.png"style="width: 100%;height:100%;"></div></div>
 
   <div class="texonbigpic">
 <b style="color: rgb(248, 50, 50);">สมัครกับเรา</b>    
@@ -422,7 +394,7 @@
     </div></div>
     
   </div>
-   
+    <div class="ABLEALIGN">
     <div class="col-md-3 offset-md-3"><div class="overcontrolABLE2">
     <div class="card">
       
@@ -482,16 +454,16 @@
       </div>
   </div>
   
-</div></div></div>
+</div></div></div></div>
 
 
 
       
 
-
+<div class="bigpicleab2">
 <div class="container">
   <div class="col align-self-start"><div class="overcontrolABLEbot2">
-<div class="imggbtn2"><img src="assets/pic/bigpicsamark.png"style="width: 100%;height:100%;"></div></div>
+<div class="imggbtn2"><img src="assets/pic/bigpicsamark.png" style="width: 100%;height: 100%;"></div></div>
 
   <div class="texonbigpic2">
     
@@ -505,7 +477,128 @@
 <div class="btm2">
   <a href="#"><button  type="button" class="btn btn-outline-secondary"><h6>Learn more<h6></button></a>
 
-</div></div></div></div>
+</div></div></div>
+
+</div>
+
+<div class="courseby">
+<div class="container ">
+  <div class="col" >
+    <div class="row align-items-start"   >
+  <p class="display-55">หลักสูตรทักษะอาชีพ</p>
+  
+  <p class="display-552">จัดทำโดย วิทยาลัยศึกษาตลอดชีวิต มช.</p>
+  </div></div>
+  
+  
+  </div>
+</div></div>
+<div class="navboxcontrol2">
+<nav class="navbar navbar-light bg-light">
+  <form class="container-fluid justify-content-start">
+    <div class="container overflow-hidden">
+    <div class="row gx-5">
+    <div class="col">
+    <button class="btn btn-sm btn-outline-secondary" type="button">ทักษะเเห่งอนาคต</button>
+    <button class="btn btn-sm btn-outline-secondary" type="button">ทักษะอาชีพ</button>
+    <button class="btn btn-sm btn-outline-secondary" type="button">เรียนร่วม มช.</button>
+    </div></div></div>
+  </form>
+</nav></div>
+
+    <div class="allcoursee ">
+      <div class="row ">
+        <div class="col-sm-3">
+          
+          <a href="#"> <div class="card">
+            <img src="assets/pic/course/robotprbut.jpg"width="100%"height="50%"></a>
+            <div class="cardbody">
+              <h5>cardtitle</h5>
+              <p>cardtext</p>
+            </div>
+            <div class="cardbottom">
+              <p class="starcontrol" style="color: rgb(247, 215, 35);"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><div class="justify-content-end"><a href="#"><button class="cardbtn" style="float: right;">➔</button></a></p>
+              </div>
+            
+            
+            
+            
+            </div>
+            
+          
+            
+      </div>
+   
+
+
+
+      
+  </div>
+
+  <div class="col-sm-3">
+          
+    <a href="#"> <div class="card">
+      <img src="assets/pic/course/robotorange.png"width="100%"height="50%"></a>
+      <div class="cardbody">
+        <h5>cardtitle</h5>
+        <p>cardtext</p>
+      </div>
+      <div class="cardbottom">
+        <p class="starcontrol" style="color: rgb(247, 215, 35);"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><div class="justify-content-end"><a href="#"><button class="cardbtn" style="float: right;">➔</button></a></p>
+        </div>
+      
+      
+      
+      
+      </div></div></div>
+      <div class="col-sm-3">
+          
+        <a href="#"> <div class="card">
+          <img src="assets/pic/course/robotprbut.jpg"width="100%"height="50%"></a>
+          <div class="cardbody">
+            <h5>cardtitle</h5>
+            <p>cardtext</p>
+          </div>
+          <div class="cardbottom">
+            <p class="starcontrol" style="color: rgb(247, 215, 35);"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><div class="justify-content-end"><a href="#"><button class="cardbtn" style="float: right;">➔</button></a></p>
+            </div>
+          
+          
+          
+          
+          </div>
+
+        </div></div>
+        <div class="col-sm-3">
+            
+          <a href="#"> <div class="card">
+            <img src="assets/pic/course/swarncourse.png"width="100%"height="50%"></a>
+            <div class="cardbody">
+              <h5>cardtitle</h5>
+              <p>cardtext</p>
+            </div>
+            <div class="cardbottom">
+              <p class="starcontrol" style="color: rgb(247, 215, 35);"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><div class="justify-content-end"><a href="#"><button class="cardbtn" style="float: right;">➔</button></a></p>
+              </div>
+            
+            
+            
+            
+            </div></div></div>
+
+          <div class="allcoursebtn">
+
+            <button type="button" class="btn btn-outline-secondary">More Course</button>
+          </div>
+
+</div>
+</div>
+
+
+
+
+
+
 
 
 
@@ -797,52 +890,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-       
-
-              
-
-
-</div>
-    <script rel="stylesheet" type="text/javascript" src="<?php echo base_url('assets/js/bootstrap/bootstrap.bundle.js'); ?>" ></script>
+</div></div>
+<script rel="stylesheet" type="text/javascript" src="<?php echo base_url('assets/js/bootstrap/bootstrap.bundle.js'); ?>" ></script>
     
     
     <script src="assets/js/index.js"></script>

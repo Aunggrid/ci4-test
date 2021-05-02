@@ -1,13 +1,58 @@
+html, body { 
+    min-height: 100%;
+    
+    
+}
+
+
+
+
+body{
+    overflow-x: hidden;
+    margin: 0px;
+   min-height: 100%;
+   width: 100%;
+    background-color:white;
+    
+    
+}
+html{
+    
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+}
+
+
+head{
+    
+
+}
+
+
 
 .box-gray
 
-{
+{   width: 1590;
+    
+    
+       }
 
-    width: 2000;
+.logotop{
+  margin-left: -50px;
+
+
+}    
+.ppimg{
+
     
-    
-    
-    }
+}
+
+.toprightmenu{
+ 
+width: 1000px;
+
+}
 .Proftext{
     color: rgb(255, 250, 250);
   
@@ -16,16 +61,21 @@
 .display-6{
     font-size: 50px;
     margin-top: 50px;
+    
+    
 }
 
 
 .display-55{
-    font-size: 30px
+    font-size: 30px;
+    
+    
 }
 
 .display-552{
     color: rgba(68, 67, 67, 0.815);
-    font-size: 25px
+    font-size: 25px;
+    
 }
 .small-box1{
     position: absolute;
@@ -36,6 +86,7 @@
     border: none;
     cursor: pointer;
     border-radius: 5px;
+    
     margin-left: 22cm;
     
 }
@@ -78,6 +129,7 @@
 
 .logole{
     margin-left: 200px;
+    
 }
 .searchbarr {
     position: absolute;
@@ -85,6 +137,7 @@
      right: 350px;
     height: 10cm;
     width: 5cm;
+    
 }
 .box-nav{
     width: 2000;
@@ -97,11 +150,13 @@
     background-color: rgba(208, 19, 233, 0.788);
     width: 140px;
     height: 40px;
+    
 }
 
 .lang-box{
 
     margin-bottom: -10px;
+    
 
 }
 .cardbtn{
@@ -121,29 +176,58 @@ border-bottom: 2px solid black ;
 .heart{
     margin-top: -35px;
     margin-left: 200px;
+    
 }
 
 .bordertest{
     border-style: groove;
+    
 }
 .navheadcontroll{
     padding-left: 350px;
     margin-top: 10px;
     height: 50px;
+    
+    justify-content: center;
+    align-items: center;
+    
+    
 }
+.wordbelowmenu{
+ text-align: center;
+ background-color: rgba(211, 204, 204, 0.397);
+ height: 150px;
 
+}
+.greylettersmal{
+  color: gray;
+ padding-top: 30px;
+}
+.greybig{
+color: gray;
+float: left;
+margin-left: 370px;
+
+}
+.bigblackletter{
+    margin-right: 370px;
+    float: none;
+}
 
 .paddinghome{
     width: 150px;
     border-left: solid gray 2px;
     margin-right: 0px;
     border-right: solid gray 2px ;
+    margin-left: 30px;
+    
 }
 .paddinghome2{
     width: 170px;
     padding-left: 7px ;
     margin-right: 14px;
     border-right: solid gray 2px ;
+    
 }
 .paddinghome3{
     width: 130px;
@@ -151,13 +235,17 @@ border-bottom: 2px solid black ;
     padding-right: 17px ;
     margin-right: 20px;
     border-right: solid gray 2px ;
+    
 }
-
+.navboxcontrol{
+   margin-left: 50px;
+}
 
 
 .nav-foot-1{
     margin-left: 20px;
     height: 10cm;
+    
 
 }
 .nav-foot-2{
@@ -259,12 +347,12 @@ border-bottom: 2px solid black ;
     margin-top: -630px;
     height: 20cm;
     width: 18cm;
-    margin-left: 920px;
+    margin-left: 820px;
     border-radius: 30%;
 }
 .vdoUndertextagegap{
 
-    border-style: groove;
+    
     width: 20cm;
     height: 10cm;
    
@@ -277,19 +365,20 @@ border-bottom: 2px solid black ;
     
 }
 .imggbtn{
-    margin-left: -980px;
-    width: 1680px;
+    margin-left: -970px;
+    width: 1750px;
+   
    
     
 }
 .imgWbtm{
-    margin-left: -830px;
+    margin-left: -780px;
     margin-top: 120px;
     
     
 }
 .texonbigpic{
-    margin-left: -850px;
+    margin-left: -800px;
     
     margin-top: -500px;
 }
@@ -330,19 +419,30 @@ border-bottom: 2px solid black ;
  .LLBIGTEXT{
     margin-left: -920px; 
     margin-top: 180px;
+    width: 100%;
+    
+ }
+ .ABLEALIGN{
+
+    
  }
  .ABOUT-LE{
-margin-left: -350px;
+margin-left: -250px;
 margin-top: 10px;
-width: 16cm;
+width: 15cm;
 height: 11cm;
+
+
+
  }
 
  .overcontrolABLE1{
-    width: 16cm;
+    width: 15cm;
     height: 11cm;
     margin-left: -11.5cm;
     box-shadow: 15px 60px 10px #88888863;
+    
+    
     
  }
  .cardABLE1{
@@ -350,6 +450,7 @@ height: 11cm;
      padding-bottom: 5px;
      border-radius: 25px;
      padding-left: 4.5px;
+     
      
  }
  .overcontrolABLE2{
@@ -374,6 +475,11 @@ height: 11cm;
  }
  .ABLE2pic{
      padding-top: 250px;
+ }
+ .bigpicleab2{
+     
+     margin-left: -30px;
+     
  }
  
  .DRalign{
@@ -440,11 +546,15 @@ margin-bottom: -550px;
      padding-left: 4.5px;
      
  }
- 
+ .ABLE-pic4{
+
+
+ }
 
 .imggbtn2{
-    margin-left: -980px;
-    width: 1650px;
+    margin-left: 10px;
+    width: 1800px;
+    height: 500px;
     margin-top: 150px;
   
 }
@@ -468,9 +578,14 @@ width: 50px;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    margin-left: 750px;
-   
-    margin-top: 10px
+    margin-left: -590px;
+    width: 1590px;
+    margin-top: 10px;
+    
+    
+    
+
+    
 }
 .texonbigpic2{
     display: flex;
@@ -481,13 +596,17 @@ width: 50px;
     flex-direction: column;
     width: 1000px;
     margin-left:-300px;
+    
 }
 .regwus{
     text-align: center;
+    
+    
 }
 .btm2{
     margin-top: 30px;
     margin-left: 150px;
+    
     
 }
 .eventwtf{
@@ -501,24 +620,31 @@ width: 50px;
     
 }
 .eventalign{
-    margin-left: -600px;
+    margin-left: -380px;
     margin-top: 300px;
+    width: 400px;
+    
+    
 }
 
 .eventalign2{
-
+    width: 400px;
     margin-top: 300px;
+    margin-left: 20px;
 }
 
 .eventalign3{
+    width: 400px;
     margin-left: 450px;
     margin-top: -170px;
 
 }
 .upevent{
-    margin-left: -150px;
+    margin-left: -100px;
     margin-top: 250px;
     margin-bottom: -260px;
+    text-align: center;
+    
 
 }
 .btmev{
@@ -533,14 +659,16 @@ width: 50px;
     padding-right: 550px;
     
     background-color:rgba(128, 128, 128, 0.527);
- width: 1680px;
+ width: 1620px;
  height: 350px;
  margin-top: 20px;
+ 
 }
 
 .textinpercent1{
 font-size: 100px;
 margin-top: 85px;
+
 }
 
 .alignpercent{
@@ -552,6 +680,7 @@ margin-top: 85px;
     flex-direction: column;
     height: 8cm;
     width: 30cm;
+    
     
 }
 .textinpercent3{
@@ -565,20 +694,25 @@ margin-top: 85px;
         
         }
 .black-footer{
-    width: 44.45cm;
+    width: 1620px;
     height: 15cm;
     background-color: black;
     margin-left: -600px;
-    margin-bottom: -10cm;
+    
+    margin-top: -10px;
+    
+    
 }
 .alligntextfooter{
     color: blanchedalmond;
+    
 }
 .smallfootcontrol{
   width: 20cm;
-  height: 18cm ;
+  height: 15cm ;
   color: blanchedalmond;
   margin-left: 20px;
+  
 }
 .footsmallalign1{
     margin-top: 5px;
@@ -594,13 +728,14 @@ margin-top: 85px;
     margin-top: 5px;
 }
 .rightfootcontrol{
-    border-style: groove;
+    
     width: 20cm;
     height: 18x;
-    margin-top: -660px;
+    margin-top: -560px;
     text-align: right;
     margin-left: 800px;
     color: blanchedalmond;
+    
     
 }
 .footicon{
@@ -621,5 +756,60 @@ border-top: 2px solid gray;
 margin-top: 300px;
 
 
+}
+.courseby{
+ 
+    margin-top: 200px;
+   
+ margin-left: -460px;
+    width: 1590px;
+}
+.navboxcontrol2{
+margin-top: 10px;
+width: 1590px;
+margin-left: -580px;
 
+
+}
+.nav2align{
+margin-left: -100px;
+
+}
+.allcoursee{
+   
+    margin-left: -440px;
+    width: 1300px;
+    
+   
+    
+}
+.allcoursebtn{
+    text-align: center;
+    margin-top: 50px;
+    margin-left: -20px;
+}
+.courseregcommand{
+ margin-left: 50px;
+
+}
+.regcourse{
+margin-left: 150px;
+
+width: 1300px;
+
+}
+.carousel-control-prev-icon{
+    margin-left: 32px;
+    background-color: rgba(128, 128, 128, 0.815);
+    height: 390px;
+}
+
+.carousel-control-next-icon{
+    
+    background-color: rgba(128, 128, 128, 0.815);
+    height: 390px;
+}
+.carousel slide{
+
+    
 }
