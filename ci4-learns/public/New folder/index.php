@@ -4,9 +4,9 @@
     
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" href="<?php echo ('assets/css/boostrap/css/bootstrap.min.css'); ?>">
-    <link rel="stylesheet" type="text/css" href="<?php echo ('assets/css/style.css'); ?>">
-    <link rel="stylesheet" type="text/css" href="<?php echo ('assets/css/fontsawesome/css/all.min.css'); ?>">
+    <link rel="stylesheet" href="assets/css/boostrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="C:\Users\My Computer\Documents\GitHub\trainee-256404\assets\css\fontsawesome\css/all.min.css">
     <title>Lifelong education cmu</title>
   </head>
   
@@ -91,10 +91,10 @@
             </a>
             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                 
-              <li><a class="dropdown-item" href="page21.php">ทักษะคุณภาพชีวิต</a></li>
-              <li><a class="dropdown-item" href="page23.php">2</a></li>
+            <li><a class="dropdown-item" href="page21.html">ทักษะคุณภาพชีวิต</a></li>
+              <li><a class="dropdown-item" href="page23.html">2</a></li>
               <li><hr class="dropdown-divider"></li>
-              <li><a class="dropdown-item" href="page24.php">3</a></li>
+              <li><a class="dropdown-item" href="page24.html">3</a></li>
             </ul></div>
             <li class="nav-item"><div class="paddinghome3">
                 <a class="nav-link active" aria-current="page" href="#"><b>ทักษะอาชีพ</b></a></div>
@@ -891,7 +891,7 @@
 
 
 </div></div>
-<script rel="stylesheet" type="text/javascript" src="<?php echo ('assets/js/bootstrap/bootstrap.bundle.js'); ?>" ></script>
-    <script rel="stylesheet" type="text/javascript" src="<?php echo ('assets/js/index.js'); ?>" ></script>
+    <script src="assets/js/bootstrap/bootstrap.bundle.js"></script>
+    <script src="assets/js/index.js"></script>
   </body>
 </html>
